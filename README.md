@@ -26,8 +26,6 @@ El input debe ser ingresado por teclado, en 8 líneas que cumplan el siguiente f
 
 * Octava línea: Palabra a reconocer. Todos los caracteres dentro de esta deben pertenecer al alfabeto de la cinta de la segunda línea.
 
-En el caso de las tra
-
 ### Caracteres prohibidos
 
 No se admitirán como caracteres para describir estados o símbolos de la pila a los siguientes:
